@@ -1,4 +1,3 @@
-
 // Create 3 arrays containing 3 items, prices and whether the item is in stock of not respectively
 let item_names = [`Glerups Shoe With Rubber Sole`, `Foamtreads Conrad Slip On Slipper`, `Vionic Men's Maverick Gustavo Slipper`,  ];
 let item_prices = [130, 100, 100.75];
